@@ -26,7 +26,7 @@
     <header>
         <div style="text-align: left;">
             <h1>Header</h1>
-            <img src="https://th.bing.com/th/id/R.d2a658c3b0d689da5c2c1c1f92f73398?rik=W9325yovY%2b1t2g&pid=ImgRaw&r=0">
+            <img src="https://th.bing.com/th/id/R.d2a658c3b0d689da5c2c1c1f92f73398?rik=W9325yovY%2b1t2g&pid=ImgRaw&r=0" alt="Car GTR R35" class="header-image">
         </div>
     </header>
 
